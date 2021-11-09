@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rodrigompsimoes
+- 👀 I’m interested in automotive software, physics, chess and general logical challenges.
+- 🌱 I’m currently learning c++.
