@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @rodrigompsimoes
 - 👀 I’m interested in very fast software, very hard physics, very long chess and very deep dives.
+- Find me on leetcode -> https://leetcode.com/u/rodrigompsimoes/
